@@ -5,7 +5,7 @@ import requests
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
 from telegram import Update
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
+from telegram.ext import Updater, CommandHandler, MessageHandler, filters, CallbackContext
 
 TOKEN = os.environ.get('TOKEN')
 
