@@ -5,4 +5,4 @@ A simple Telegram audio cutter bot that sends a short piece of musics in the for
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/music-demos-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryforker/music-demos-bot)
